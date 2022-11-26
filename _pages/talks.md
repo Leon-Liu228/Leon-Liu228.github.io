@@ -4,8 +4,8 @@ title: "Curriculum"
 permalink: /talks/
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /talks/
+  - /talk.html
 ---
 
 教育經歷
