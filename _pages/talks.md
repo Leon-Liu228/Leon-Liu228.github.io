@@ -9,7 +9,7 @@ author_profile: true
 教育經歷
 ======
 
-<a href="https://www.sysu.edu.cn/"><img src="talks/SYSU_logo.jpeg" alt="中山大學" width="80px" /></a>&nbsp;  **本科 中山大學 Sun Yat-sen University（2020.9至今）**  
+<a href="https://www.sysu.edu.cn/"><img src="_pages/talks/SYSU_logo.jpeg" alt="中山大學" width="80px" /></a>&nbsp;  **本科 中山大學 Sun Yat-sen University（2020.9至今）**  
 　&emsp;&emsp;&emsp;&emsp; **·**&ensp;院系專業: 計算機學院, 網絡空間安全
 
 本科學業
