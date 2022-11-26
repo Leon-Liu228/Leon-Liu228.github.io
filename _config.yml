@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "劉家駿LiuJiajun"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : 
+  avatar           : "bio-photo.jpg"
+  bio              : "History, Philosophy, Computer Science"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
