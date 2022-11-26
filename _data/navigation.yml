@@ -4,12 +4,13 @@ main:
     url: /publications/
 
   - title: "Curriculum"
-    url: /talks/    
-
+    url: /talks/   
+    
+  - title: "Miscellaneous"
+    url: /Miscellaneous/
     
   - title: "Portfolio"
     url: /portfolio/
         
     
-  - title: "Guide"
-    url: /markdown/
+
