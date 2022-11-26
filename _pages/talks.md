@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 redirect_from:
   - /talks/
-  - /talk.html
 ---
 
 教育經歷
