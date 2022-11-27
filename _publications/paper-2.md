@@ -10,6 +10,6 @@ paperurl: 'http://leon-liu228.github.io/files/西方哲学史纲（再稿）上.
 
 [西方哲学史纲（再稿）下载](http://leon-liu228.github.io/files/西方哲学史纲（再稿）上.pdf)
 
-[西方哲学史纲（再稿）大纲下载](http://leon-liu228.github.io/files/西方哲学史纲（再稿）大纲.pdf)
+[西方哲学史纲（再稿）大纲 下载](http://leon-liu228.github.io/files/西方哲学史纲（再稿）大纲.pdf)
 
 [西方哲学史纲（初稿）下载](http://leon-liu228.github.io/files/西方哲学史纲（初稿）.pdf)
