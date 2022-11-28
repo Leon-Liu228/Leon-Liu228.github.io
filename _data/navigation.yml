@@ -9,9 +9,6 @@ main:
   - title: "Miscellaneous"
     url: /Miscellaneous/
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
   - title: "Booknotes"
     url: https://github.com/Leon-Liu228/Book-Notes
         
