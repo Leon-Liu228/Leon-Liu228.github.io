@@ -22,8 +22,13 @@ redirect_from:
 - 羽毛球，曾系统性地学过一段时间，还有些基本功
 - 长跑，得过几次院运会1000米的名次
 - Paradox Interactive Games
-- 罗大佑, The Beatles, Pink Floyd, Bob Dylan, Led Zepplin
-- 北岛，加西亚·马尔克斯，科幻
+- 流行乐：罗大佑, The Beatles, Pink Floyd, Bob Dylan, Led Zepplin
+- 古典/纯音乐：Sebastian Bach, Шостакович, Ennio Morricone,  Hans Zimmer
+- 文学：加西亚·马尔克斯，北岛，中国古典诗词，科幻
+- 电影：《死亡诗社》（这是我学生时代最好的电影）, Christopher Nolan, 《洛城机密》
+- 略通西方艺术史
+
+
 
 
 
