@@ -35,4 +35,4 @@ redirect_from:
 
 
 
-<img src="Miscellaneous/image-20221130225042217.png" alt="image-20221130225042217" style="zoom:25%;" />
+<img src="/images/image-20221130225042217.png" alt="image-20221130225042217" style="zoom:25%;" />
