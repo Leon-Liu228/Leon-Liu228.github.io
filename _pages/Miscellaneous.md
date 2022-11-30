@@ -30,9 +30,9 @@ redirect_from:
 
 
 
-年度回顾
+音樂年度回顾
 ======
 
 
 
-![image-20221130225042217](Miscellaneous/image-20221130225042217.png)
+<img src="Miscellaneous/image-20221130225042217.png" alt="image-20221130225042217" style="zoom:25%;" />
