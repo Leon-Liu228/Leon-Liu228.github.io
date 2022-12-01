@@ -35,4 +35,4 @@ redirect_from:
 
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/images/image-20221130225042217.png" alt="image-20221130225042217" style="zoom:25%;" />
+&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/images/Miscellaneous-1.png" alt="image-20221130225042217" style="zoom:25%;" /><img src="/images/Miscellaneous-2.png" alt="image-20221130225042217" style="zoom:25%;" /><img src="/images/Miscellaneous-3.png" alt="image-20221130225042217" style="zoom:25%;" />
