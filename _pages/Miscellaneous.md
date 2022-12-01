@@ -18,15 +18,15 @@ redirect_from:
 興趣、特長
 ======
 
-- 吉他，木吉他水平大概在指弹四级左右，会弹几段电吉他solo
-- 羽毛球，曾系统性地学过一段时间，还有些基本功
-- 长跑，得过几次院运会1000米的名次
+- 吉他，木吉他水平大概在指彈四級左右，會彈几段電吉他solo
+- 羽毛球，曾系統性地學过一段時間，还有些基本功
+- 长跑，得过几回院運會1000米的名次
 - Paradox Interactive Games
-- 流行乐：罗大佑, The Beatles, Pink Floyd, Bob Dylan, Led Zepplin
-- 古典/纯音乐：Sebastian Bach, Шостакович, Ennio Morricone,  Hans Zimmer
-- 文学：加西亚·马尔克斯，北岛，中国古典诗词，科幻
-- 电影：《死亡诗社》（这是我学生时代最好的电影）, Christopher Nolan, 《洛城机密》
-- 略通西方艺术史
+- 流行樂：羅大佑, The Beatles, Pink Floyd, Bob Dylan, Led Zepplin
+- 古典/純音樂：Sebastian Bach, Dmitriy Shostakovich, Ennio Morricone,  Hans Zimmer
+- 文學：加西亞·馬爾克斯，北島，中國古典詩詞，科幻
+- 電影：《死亡詩社》（这是我學生時代最好的電影）, Christopher Nolan, 《洛城機密》
+- 略通西方藝術史
 
 
 
