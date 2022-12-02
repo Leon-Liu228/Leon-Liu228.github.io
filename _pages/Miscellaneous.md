@@ -25,12 +25,12 @@ redirect_from:
 - 流行樂：羅大佑, The Beatles, Pink Floyd, Bob Dylan, Led Zepplin
 - 古典/純音樂：Sebastian Bach, Dmitriy Shostakovich, Ennio Morricone,  Hans Zimmer
 - 文學：加西亞·馬爾克斯，北島，中國古典詩詞，科幻
-- 電影：《死亡詩社》（这是我學生時代最好的電影）, Christopher Nolan, 《洛城機密》
+- 影視：《死亡詩社》（这是我學生時代最好的電影）, Christopher Nolan, 《洛城機密》，Yes, Prime Minister
 - 略通西方藝術史
 
 
 
-音樂年度回顾
+音樂年度回顾（2022）
 ======
 
 
